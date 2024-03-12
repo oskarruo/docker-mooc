@@ -1,0 +1,3 @@
+The size of the Alpine image is much smaller
+
+The secret message functionality is the same

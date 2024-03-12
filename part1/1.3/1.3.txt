@@ -1,0 +1,8 @@
+$ sudo docker exec -it hungry_rhodes bash
+
+root@8b006105f748:/usr/src/app# tail -f ./text.log
+
+2024-03-12 18:35:16 +0000 UTC
+2024-03-12 18:35:18 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+...
